@@ -1,0 +1,150 @@
+body{
+    background-color: #dfdfdf;
+}
+
+
+nav{
+    background-color: #252425;
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+}
+nav img{
+    align-items: start;
+    border-radius: 30px;
+}
+
+hr{
+    border-top: 3px double #8c8b8b;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+
+#home1{ 
+    background-image: url('./imgonline-com-ua-resize-it4VBQktQzGS8YI2.jpg');
+    width: 1519px;
+    height: 700px;
+    text-align: right;
+    font-size: 30px;
+    color: #cfcfce;
+}
+#home1>div>div>h2{
+    color:#cfcfce !important;
+}
+
+
+#myname{
+    margin-left: 112px;
+    margin-top: 150px;
+}
+.name1{
+    font-size: 70px;
+}
+#resume2 .container{
+    /* background-color: #ebeaeb; */
+    width: 100%;
+    border-left: 0%;
+    border-right: 0%;
+}
+#myinfo .container{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+#myinfo .btn{
+    margin-top: 0px;
+    background-color: transparent;
+    border-color: #8c8b8b;
+    
+
+}
+
+#myinfo .btn:hover{
+    background-color: #8c8b8b;
+}
+
+#myinfo>div{
+    border-bottom: 10px !important;
+}
+
+#myinfo img{
+    border-radius: 50%;
+}
+#myinfo .btn a{
+    text-decoration: none;
+    color: #1f1310;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 1px solid #1f1310;
+    /* font-style: italic; */
+}
+
+.skills img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+#hero{
+    
+    background-image: url('./leone-venter-VieM9BdZKFo-unsplash.jpg');
+    width: auto;
+    height: auto;
+}
+
+.skills h2{
+    text-align: center;
+}
+
+.skills>.container{
+    margin-top: 40px;
+    margin-bottom: 70px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    
+    
+}
+@media screen {
+    
+}
+
+
+footer{
+    /* background-color: rebeccapurple; */
+    margin-bottom: 0%;
+    font-size: 20px;
+    
+    
+}
+footer svg{
+    height: 50px;
+    width: 30px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.contme{
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+.contme button a{
+    text-decoration: none;
+    color: #1f1310;
+}
+
+.countme button a:hover{
+    background-color: #8c8b8b;
+    color: white;
+}
+
+.mailme p{
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
